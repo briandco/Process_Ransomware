@@ -1,0 +1,1 @@
+/home/cbq2kor/Desktop/DevSpace/Test/eBPF/aya-proc/proc/proc-ebpf/../target/bpfel-unknown-none/debug/proc: /home/cbq2kor/Desktop/DevSpace/Test/eBPF/aya-proc/proc/proc-common/src/lib.rs /home/cbq2kor/Desktop/DevSpace/Test/eBPF/aya-proc/proc/proc-ebpf/src/main.rs
