@@ -431,6 +431,7 @@ dependencies = [
  "env_logger",
  "libc",
  "log",
+ "once_cell",
  "proc-common",
  "tokio",
  "user",
