@@ -1,4 +1,5 @@
-# proc
+# sudo watcher
+The purpose of this code is to monitor and log information about processes related to the "sudo" command. It tracks the PIDs of processes with the name "sudo", PIDs of processes forked by "sudo" processes, and the parent-child relationship between these processes.
 
 ## Prerequisites
 
